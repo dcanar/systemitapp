@@ -1,2 +1,2 @@
 # systemitapp
-page listo
+pagina lista
